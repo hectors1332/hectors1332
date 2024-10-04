@@ -2,10 +2,10 @@
 
 🔧 What I Do:
 
-    Build data structures and algorithms that optimize performance.
-    Develop client-server applications using Sockets and JavaFX.
-    Design intuitive, user-centered UI/UX experiences for desktop apps.
-    Solve complex problems in system design, memory management, and network programming.
+-  Build data structures and algorithms that optimize performance.
+-  Develop client-server applications using Sockets and JavaFX.
+Design intuitive, user-centered UI/UX experiences for desktop apps.
+Solve complex problems in system design, memory management, and network programming.
 
 🎯 What I Bring:
 
