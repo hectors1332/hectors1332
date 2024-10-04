@@ -2,16 +2,16 @@
 
 🔧 What I Do:
 
-Build data structures and algorithms that optimize performance.
-Develop client-server applications using Sockets and JavaFX.
-Design intuitive, user-centered UI/UX experiences for desktop apps.
-Solve complex problems in system design, memory management, and network programming.
+  Build data structures and algorithms that optimize performance.
+  Develop client-server applications using Sockets and JavaFX.
+  Design intuitive, user-centered UI/UX experiences for desktop apps.
+  Solve complex problems in system design, memory management, and network programming.
 
 🎯 What I Bring:
 
-A results-driven approach to coding and a commitment to writing clean, maintainable code.
-A love for learning and adopting new technologies to keep improving.
-Strong project experience, including building a networked Battleship game and optimizing sorting algorithms for cache performance.
+  A results-driven approach to coding and a commitment to writing clean, maintainable code.
+  A love for learning and adopting new technologies to keep improving.
+  Strong project experience, including building a networked Battleship game and optimizing sorting algorithms for cache performance.
 
 🚀 Currently: I'm a student graduating in 2025, and I'm looking for opportunities in software development, where I can apply my skills to create impactful software.
 
